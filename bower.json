@@ -1,0 +1,17 @@
+{
+  "name": "dotobject",
+  "version": "0.0.1",
+  "authors": [
+    "Christiaan Lombard <base1.christiaan@gmail.com>"
+  ],
+  "description": "JS object helper for dot notation attribute access [get,set]",
+  "main": "dotobject.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
